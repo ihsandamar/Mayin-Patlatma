@@ -1,0 +1,7 @@
+C:\Users\#TSHB#\Desktop\C# Projeleri\MayinPatlatma\MayinPatlatma\bin\Debug\MayinPatlatma.exe.config
+C:\Users\#TSHB#\Desktop\C# Projeleri\MayinPatlatma\MayinPatlatma\bin\Debug\MayinPatlatma.exe
+C:\Users\#TSHB#\Desktop\C# Projeleri\MayinPatlatma\MayinPatlatma\bin\Debug\MayinPatlatma.pdb
+C:\Users\#TSHB#\Desktop\C# Projeleri\MayinPatlatma\MayinPatlatma\obj\Debug\MayinPatlatma.csprojAssemblyReference.cache
+C:\Users\#TSHB#\Desktop\C# Projeleri\MayinPatlatma\MayinPatlatma\obj\Debug\MayinPatlatma.csproj.CoreCompileInputs.cache
+C:\Users\#TSHB#\Desktop\C# Projeleri\MayinPatlatma\MayinPatlatma\obj\Debug\MayinPatlatma.exe
+C:\Users\#TSHB#\Desktop\C# Projeleri\MayinPatlatma\MayinPatlatma\obj\Debug\MayinPatlatma.pdb
